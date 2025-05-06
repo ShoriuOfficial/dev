@@ -17,7 +17,7 @@ Merhaba! Ben yazılım dünyasında kendini geliştirmiş bir developer'ım. Öz
 - Sunucu yapılandırması, plugin/mod kurulumu  
 - Oyuncu deneyimini geliştirme odaklı çalışmalar  
 
-- E-posta adresim: **[shoriu3@gmail.com](shoriu3@gmail.com)**  
+- E-posta adresim: **[shoriu3@gmail.com](mailto:shoriu3@gmail.com)**  
 - Discord kuilanıcı adım: SahbazBaba#0720  
 
 ---
