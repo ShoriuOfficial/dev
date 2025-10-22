@@ -1,26 +1,37 @@
-# Developer olunur!
+# 💻 Developer Olunur!
 
-Merhaba! Ben Ender! Ben yazılım dünyasında kendini geliştirmiş bir developer'ım. Özellikle **CtrlPanel.GG**, **Pterodactyl**, **Linux sistemleri**, **Frontend geliştirme** ve **Minecraft sunucu yönetimi** konularında güçlü bilgiye sahibim.
-
-## 🔧 Sistem Tarafı
-- **Pterodactyl** panel kurulumu ve yapılandırması,  
-- **Linux** (Debian/Ubuntu) sistem yönetimi ve terminal komutları,  
-- **CtrlPanel.GG** gibi kontrol panellerinin kurulumu ve optimizasyonu,  
-
-## 🌐 Frontend
-- HTML, CSS ile sade ve işlevsel arayüzler geliştirme  
-- Temel JavaScript bilgisi  
-- Kullanıcı dostu web sayfaları oluşturma  
-
-## 🎮 Minecraft Geliştiriciliği
-- Minecraft sunucu kurulumu ve yönetimi (Spigot, Paper, Forge)  
-- Sunucu yapılandırması, plugin/mod kurulumu  
-- Oyuncu deneyimini geliştirme odaklı çalışmalar  
-
-- E-posta adresim: **[shoriu3@gmail.com](mailto:shoriu3@gmail.com)**  
-- Discord kullanıcı adım: SahbazBaba#0720  
+Merhaba! Ben **Ender**.  
+Yazılım dünyasında kendini sürekli geliştiren bir **developer**’ım.  
+Özellikle **CtrlPanel.GG**, **Pterodactyl**, **Linux sistemleri**, **Frontend geliştirme** ve **Minecraft sunucu yönetimi** konularında güçlü bilgiye sahibim.
 
 ---
 
-Yazılım benim için bir tutkudur. Sürekli öğreniyor, projelerimi geliştiriyor ve elimden gelenin en iyisini yapmaya çalışıyorum.
+## 🔧 Sistem Yönetimi
+- **Pterodactyl** panel kurulumu, yapılandırma ve özelleştirme  
+- **Linux (Debian/Ubuntu)** sistem yönetimi, güvenlik ve optimizasyon  
+- **CtrlPanel.GG** gibi hosting panellerinin kurulumu ve performans ayarları  
 
+---
+
+## 🌐 Frontend Geliştirme
+- HTML ve CSS ile sade, modern ve işlevsel arayüzler  
+- Temel JavaScript ile etkileşimli sayfa deneyimi  
+- Responsive ve kullanıcı dostu tasarım odaklı geliştirme  
+
+---
+
+## 🎮 Minecraft Geliştiriciliği
+- **Spigot, Paper, Forge** gibi platformlarda sunucu kurulumu ve yapılandırma  
+- Plugin / mod kurulumu ve yönetimi  
+- Oyuncu deneyimini geliştirmeye yönelik optimizasyonlar  
+
+---
+
+## 📬 İletişim
+- **E-posta:** [shoriu3@gmail.com](mailto:shoriu3@gmail.com)  
+- **Discord:** `SahbazBaba#0720`
+
+---
+
+> 💬 *Yazılım benim için sadece bir meslek değil, aynı zamanda bir tutkudur.*  
+> Sürekli öğrenir, geliştirir ve her zaman bir adım öteye taşımaya çalışırım.
